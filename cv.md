@@ -4,7 +4,8 @@
 ## Alexander Hatkov
 ### PHP Developer
 
-![cv](https://github.com/AleksanderKhatkov9/rsschool-cv/blob/gh-pages/sasha.jpeg){width=300 height=300}
+<img src="https://github.com/AleksanderKhatkov9/rsschool-cv/blob/gh-pages/sasha.jpeg" width="300" height="300" alt="cv">
+
 
 
 
