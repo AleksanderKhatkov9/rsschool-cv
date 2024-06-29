@@ -4,7 +4,7 @@
 ## Alexander Hatkov
 ### PHP Developer
 
-![cv](https://github.com/AleksanderKhatkov9/rsschool-cv/sasha.jpeg)
+![cv](https://github.com/AleksanderKhatkov9/rsschool-cv/blob/gh-pages/sasha.jpeg)
 
 
 ### Contact information:
@@ -33,8 +33,6 @@ I have experience in software development. My skills include writing web applica
 ---
 
 ### Code example:
-**Peak array index KATA from CODEWARS:**
-Given an array of ints, return the index such that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.
 ```javascript
 import axios from "axios";
 import Cookies from 'js-cookie';
