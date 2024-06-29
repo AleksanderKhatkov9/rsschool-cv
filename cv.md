@@ -4,7 +4,8 @@
 ## Alexander Hatkov
 ### PHP Developer
 
-![cv](https://github.com/AleksanderKhatkov9/rsschool-cv/blob/gh-pages/sasha.jpeg)
+![cv](https://github.com/AleksanderKhatkov9/rsschool-cv/blob/gh-pages/sasha.jpeg){width=300 height=300}
+
 
 
 ### Contact information:
@@ -283,3 +284,22 @@ export default {
             setTimeout(this.updateCenter, 100);
             objectManager.clusters.events.add(['mouseenter', 'mouseleave'], this.onClusterEvent);
         },
+```
+## Education
+
+- EE "Belarusian State University" <br>
+Bachelor's degree,  Information systems software · (July 2019 - March 2021)
+- EE "Belarusian State University of Informatics and Radioelectronics"<br>
+Master's degree,  Computer technologies for designing electronic
+systems · (July 2015 - July 2016)
+
+- EE "Belarusian State University of Informatics and Radioelectronics"<br>
+Bachelor's degree, Technical support security · (July 2011 - July 2015)
+
+- EE "Belarusian State College of Construction Materials Industry"
+Secondary (complete) general education, Automation of technological
+processes and production · (July 2006 - July 2011)
+
+
+## English
+- My level of English is A2+
