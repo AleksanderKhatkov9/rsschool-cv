@@ -1,5 +1,4 @@
 
-# [rsschool-cv](https://annavoloshina.github.io/rsschool-cv/)
 
 ## Alexander Hatkov
 ### PHP Developer
