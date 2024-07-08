@@ -1,6 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     font-size: 20px;
+    margin: 0;
+    padding: 0;
 }
 
 .header {
@@ -35,18 +37,20 @@ body {
 
 .nav-link {
     padding: 0 20px;
-    font-size: 18px;
+    font-size: 28px;
     font-weight: 700;
     line-height: 50px;
     text-decoration: none;
     color: white;
     border-radius: 20px;
     cursor: pointer;
+    background-color: #03a9f4;
 }
 
 .nav-link:hover {
     color: var(--middle);
-    background-color: var(--light);
+    /* background-color: var(--light); */
+    background-color: aqua;
     transition: all 0.5s;
 }
 
@@ -111,6 +115,7 @@ code {
 .footer-logo,
 .none {
     color: white;
+    text-decoration: none;
 }
 
 @media (max-width: 768px) {
@@ -124,5 +129,25 @@ code {
     body {
         font-family: Arial, sans-serif;
         font-size: 15px;
+    }
+    .nav-link {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 500px) {
+    .content-container {
+        flex-direction: column;
+    }
+    .contact,
+    .about {
+        width: 100%;
+    }
+    body {
+        font-family: Arial, sans-serif;
+        font-size: 15px;
+    }
+    .nav-link {
+        font-size: 20px;
     }
 }
